@@ -1,4 +1,4 @@
-# skripsi
+# SKRIPSI
 
 #### CEK STATUS MAHASISWA DI PDDIKTI
 > https://pddikti.kemdikbud.go.id/data_mahasiswa/NzU1NTA0MUItMUU5MC00MjdDLTg1OTMtQUREQTlBMUI4QjEx

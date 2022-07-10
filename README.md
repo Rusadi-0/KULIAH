@@ -11,4 +11,3 @@
 > 2. https://slidesgo.com/theme/multi-business-company-website#search-web+app&position-3&results-12
 > 
 > 3. https://slidesgo.com/theme/web-project-proposal#position-11&related-1&rs=detail-related
-https://zoom.us/j/92205951972?pwd=Y09nS00zdWVoTnNQLzJuQ1NLQVlIUT09

@@ -1,1 +1,270 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T04:21:25.422Z" agent="5.0 (X11)" etag="flKMHUgmfD2qu3LvaxSS" version="20.0.1" type="device" pages="2"><diagram id="4XVUiRChP693ibhbtJb5" name="SURAT MASUK">7Vpdt5o4FP01PrZLCCA+olAvo95xibbTeaOQq/QiYTB+9ddPIgkGUC/eitrV+iI5+SDss/fJSaABuottL3Hj+RD5MGzITX/bAGZDliUAJPJHLbvUAtrt1DBLAj81NQ8GJ/gBWU9uXQU+XDJbasIIhTiI80YPRRH0cM7mJgna5Ju9oNDPGWJ3BnPToAbHc0NYavYl8PE8teqq0PoJBrM5v7PUZDULlzdmhuXc9dFGMAGrAboJQji9Wmy7MKTg5XH5dKI2m1gCI1ylw8tOlp+C9WY68iR5av34HEfSBzbK2g1X7IEbshaS8Tp+sKYQhsEs2ldo/63oTDseuR1MDmVyNaP/I+u5Z4/tIenkTMfGhI9DJrQfKm3FoMA7ji9BJaaXq0U4CF5gGESk1CFPhQMviN39o5E6w8MooRUwCRaQTgCYIWs/Otg6m3mAoRO7Hh1zQyhJbHO8CElJopNHEXZJlyQrh6EbL4Nv++k0iSWB3ipZBms4hsuUjNS6hnQ+bmgwODCiAy/JfYJoNqEFE2jEglaYzqibkZF25hgy5DgIoue4G8ht4FYwMU/2ICIPmOxIE1arph2YqKQ2K28OFOW0mwvs1DSFKYOpYpYNfCAOuWDcuYBHrSM8KnhacEOMggjvp6B2GqpZ8CtK8BzNUOSGomfLoJ0l9DuR5NFJAFI6AmS7VROOkl4C0rH6Y2tijG2qqT/quYZ6JFV/p37kuvzefhgB6ZeiWYhFHLg3JCSBK2AJ4qX6ufc6eXn1/XHf/4Jfv3tH17Q6oCwhVBndilACXasGZVuriZbclwKWI3s4sp+N5z+x6DqxCMjKg8Ui+VYCelMtGf3eGYtkFVQTEA+/18dSLq/naXbcHBrOtF9VRfcRy1ERXIHzCuduxnntY5n12VYqR3u1zZte3VngYRbhjDYXQFpAVD+KaBlQvVkTmmqZ+p9sx+4fNohN0zbGjj3qH1lNBJyLIfsbwhgtSAWMfINu8aktRN4r5TFaRT70T1L1LNrYTWaQNfzu/fVhsDXtp/Hs67+9ntEa9WOeWUCfnxmc8IkAOYc3gaGLib5yijmGORttRMklxLVWPrDJSlEFS7RKPMi6iccAhZEUKRPQ6cFSJEqD7XmQPedPREVQooZpO6O/HcKP3zMiakpxR189Imol911Nw0pZw/eKiOBSSAuIAqV974jIMz0BzX38+z0pr/MN4JnE9wTha6O7+jB0Vy6Fs0B3tXk7sp9bKx9yF56iexpKpbRC3jlygPKx4LB03l5HBkVwTHb/0MJHuklihq97QxO0uMHciu3NnVgSXHY+dNwhreI9+BohFxxYNamSyBos6e3sp4P8uCTnUhTlUF84hq853VLKpzhjq29Q6pjGxBAS8uN70ncy6cCdHG8qZOn8RZ+Qj5/dsL3JnJ+kidTKn9GAdrXk+2oOLAfTOhyHYhjRN3/ucr53jpRWs5eyOi1tA5x5lFyngYCgUdmnKVIP4FPAVcF8qrQKQ9QtyrN7oF9cmHzfcGsnqkrhIK9uYZYzetGJjjWwHKO8pf0VdcldKvr+3OuX+mNy/sRL4wnmrfSrlVzftSYGPd4aWMOOMaYiFrgwMAbTRh1HXjdQs3orl+bT7lYTXEnNpHj40CZtfvhcCVj/Aw==</diagram><diagram id="UHPE-AkUGkXrTP2AB3aK" name="SURAT KELUAR">7VpZl6I4FP41PlYdduQRC8riuIwHra7upzkUpDSnkTgYt/n1EyRsBixEnHKm+0nuJbmE7365S7AjPi33/dBZLUbIA35H4Lx9RzQ6gsArPEd+Is0h1si8FivmIfRiFZcppvBvQGcm2g30wJrqYhVGyMdwVVS6KAiAiws6JwzRrjjsA/leQbFy5qCwjEgxdR0fMMPeoIcXsbYr50a/ADhfJE/mOXpn6SSDqWK9cDy0y6lEsyM+hQjh+Gq5fwJ+BF4Rl+eKu+nCQhDgOhPWrgNnI896/Q62y35/CjnPfqBWto6/oS88McembY10op2+2vqMLh4fEkTIe6yiy83SH8IP4MOASD2yDgxduHKOiyH3dBejMLoBQrgEGJBrw6fjJ5mut1tADKYrx41s7giJiG6Blz6ReHJJ/IodMiVMZd93Vmv4flwORzQhcDfhGm6BDdYxfSLtFkTrcXzdh/OA6DCKDK/Jc2Awn0WCISpEgzY4WtFTSp9oskMnuQTa4yIpSsQm2FfCz6dOJbsBIPKC4YEMoRPkeALdBrxG5V1GqoQoixyfFEWiXKY8nqeGM1eTC+rtcs9r+8Ofu/fwL1/pw7ftEGO+//OBVxjXM67O+WGFYICPa5B7Hdk4cSwK8QLNUeD4edfWQq2aljWhlIUuAyVfAmWXux7J0sWKDJBTc2CbM922fm+ftrYPL3cbbiDhVhvojvePeMH+UVkgy7YPz8nXA/ly+LDfHvbQWgbGVvqhc+Hzy/8GSFLb1EJSlFugZOlqZTabW6OJNdbHv8NQO2FIFKQ7C0PCHe8e+ZKKiKu3e/i0um8bSTaP/1eQTHBKoBS5WlBKLVREpUhKDJKDP8ZTcxL1FPpQf2FwBR5puqiYQWdm2nwwSfa1Dz5wFg2GR8kgKPVA4OlR60fEdx+5P6PwgjaBBzwaGQjW4eE7NXcUftA78cqi5RT8g51wDvDn3GnqxxD4DibBr/DQMrfQqZOIfPniqOh//sSxa7QJXUAnZb4lIDmH3DBK6crHSOWPyZgSG8x4k75h85SmMlSa6WMj6k7Jb79+Yvua/FWal1pIQ1KSTtI0pDyWlXFlmUjWHluo5Ep3Aeus+4mg6nlAT0o5TijFk4XzZl1l8rB8Wxmfx3ADc/iq278m85XTIHQB8xXpZszn77mJ4bmzkJ4gKsrSl3OfLWp1e2pNfk3Kd8XTYF+b8DejO1vh3RHdhUvoLin1iuU2yF6KJdu0Z8Vy6QF8DtjT/vgdYYyWF5XAqXAsgR85TksUxj5/2zjkpZynztXNDMlrlNIV3su5J3HFtVWzWuzlBU0tmqgomxlDoqCeNxS/M2OoQY1cihh7km+b36ypRXSvQ1IlX8sgtALkVs9z1osjf+KuKflY12W5tYf4SK1Hnkoxt2QqZcSKhENOaE6r2FdnQKo4ybuSQ6KgFJOnJDfj0CkZGUM35lC3Ogr1zHFJtdkwClXEHYZDFZ7/NHqozRlSEXiuZIgkFoODqGm1GNKWY7VP00vaT3BTc6hPdev28SKNEIX4oMln0tSjdpKoNKnFRPUpOap5ladk9feN9s981GLkkdR/N2CU9Ke2OdBHRGXoM72EXrcoY+omiK+oJ+TT7zx1c4Gi8ecN3dq17En4MyknBmUhw7COndmg5CTutnUq3+Lub1Kmxi3QV/BKkZVmvOqq8nlDt+ZVSatj2daorU7n0jq1efC4+ry++GcGVZKaeVTgz9tp7FAiZv9Mi4dn/+8TzX8A</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-18T09:15:16.977Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="EOaL9Ioe49hhx_Pxw_kU" version="20.1.1" type="github" pages="3">
+  <diagram id="4XVUiRChP693ibhbtJb5" name="SURAT MASUK">
+    <mxGraphModel dx="1966" dy="696" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fy22HivwUPc12UEzVpn1-1" value="&lt;div align=&quot;center&quot;&gt;PENGIRIM SURAT&lt;/div&gt;" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="5" y="195" width="20" height="664" as="geometry" />
+        </mxCell>
+        <mxCell id="fy22HivwUPc12UEzVpn1-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="fy22HivwUPc12UEzVpn1-1" vertex="1">
+          <mxGeometry x="5" y="99" width="10" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="fy22HivwUPc12UEzVpn1-18" value="SEKRETARIAT" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="158" y="195" width="20" height="662" as="geometry" />
+        </mxCell>
+        <mxCell id="fy22HivwUPc12UEzVpn1-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="fy22HivwUPc12UEzVpn1-18" vertex="1">
+          <mxGeometry x="5" y="120" width="10" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="3ps5VGkTfkddRKdWtkjc-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="fy22HivwUPc12UEzVpn1-18" vertex="1">
+          <mxGeometry x="5" y="386" width="10" height="196" as="geometry" />
+        </mxCell>
+        <mxCell id="fy22HivwUPc12UEzVpn1-20" value="PIMPINAN" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="324" y="195" width="20" height="662" as="geometry" />
+        </mxCell>
+        <mxCell id="fy22HivwUPc12UEzVpn1-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="fy22HivwUPc12UEzVpn1-20" vertex="1">
+          <mxGeometry x="5" y="253" width="10" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="fy22HivwUPc12UEzVpn1-22" value="SURAT MASUK" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="462" y="196.5" width="100" height="659.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fy22HivwUPc12UEzVpn1-39" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="fy22HivwUPc12UEzVpn1-22" vertex="1">
+          <mxGeometry x="46" y="198.5" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fy22HivwUPc12UEzVpn1-52" value="FISIK SURAT DIARSIPKAN" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="fy22HivwUPc12UEzVpn1-22" target="jcJ-LxDIHRgYZGGA7PKp-1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="57" y="224.5" as="sourcePoint" />
+            <mxPoint x="419.5" y="224.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fy22HivwUPc12UEzVpn1-23" value="DISPOSISI" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="645" y="196.5" width="100" height="664.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fy22HivwUPc12UEzVpn1-42" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="fy22HivwUPc12UEzVpn1-23" vertex="1">
+          <mxGeometry x="45" y="349.5" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fy22HivwUPc12UEzVpn1-24" value="ARSIP" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="832" y="195" width="100" height="665" as="geometry" />
+        </mxCell>
+        <mxCell id="fy22HivwUPc12UEzVpn1-45" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="fy22HivwUPc12UEzVpn1-24" vertex="1">
+          <mxGeometry x="45" y="505" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jcJ-LxDIHRgYZGGA7PKp-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="fy22HivwUPc12UEzVpn1-24" vertex="1">
+          <mxGeometry x="44.5" y="225" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fy22HivwUPc12UEzVpn1-38" value="MENGIRIM SURAT" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0.119;entryY=0.037;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="21" y="320" as="sourcePoint" />
+            <mxPoint x="164.18999999999983" y="319.44499999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fy22HivwUPc12UEzVpn1-40" value="REKAM DATA SURAT MASUK" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" parent="1" target="fy22HivwUPc12UEzVpn1-39" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="174" y="395" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fy22HivwUPc12UEzVpn1-41" value="DATA SURAT MASUK" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" parent="1" source="fy22HivwUPc12UEzVpn1-39" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="471" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fy22HivwUPc12UEzVpn1-43" value="DISPOSISI DATA SURAT MASUK" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" parent="1" target="fy22HivwUPc12UEzVpn1-42" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="549" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fy22HivwUPc12UEzVpn1-44" value="DISPOSISI SELESAI" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" parent="1" source="fy22HivwUPc12UEzVpn1-42" target="3ps5VGkTfkddRKdWtkjc-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="176" y="622" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fy22HivwUPc12UEzVpn1-46" value="CETAK LEMBAR DISPOSISI LALU DIARSIPKAN" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" parent="1" target="fy22HivwUPc12UEzVpn1-45" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="175" y="703" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="UHPE-AkUGkXrTP2AB3aK" name="SURAT KELUAR">
+    <mxGraphModel dx="1966" dy="696" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="scaiTMdIUXevmGGSi0dR-1" value="PENERIMA SURAT" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="5" y="195" width="20" height="664" as="geometry" />
+        </mxCell>
+        <mxCell id="9xy_wbrql6GiWvLtt1Gk-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="scaiTMdIUXevmGGSi0dR-1" vertex="1">
+          <mxGeometry x="5" y="528" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="scaiTMdIUXevmGGSi0dR-3" value="SEKRETARIAT" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="158" y="195" width="20" height="662" as="geometry" />
+        </mxCell>
+        <mxCell id="9xy_wbrql6GiWvLtt1Gk-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="scaiTMdIUXevmGGSi0dR-3" vertex="1">
+          <mxGeometry x="5" y="75" width="10" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="HyfRW-xiImnDv4YA0rFH-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="scaiTMdIUXevmGGSi0dR-3" vertex="1">
+          <mxGeometry x="5" y="251" width="10" height="352" as="geometry" />
+        </mxCell>
+        <mxCell id="scaiTMdIUXevmGGSi0dR-5" value="PIMPINAN" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="324" y="195" width="20" height="662" as="geometry" />
+        </mxCell>
+        <mxCell id="9xy_wbrql6GiWvLtt1Gk-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="scaiTMdIUXevmGGSi0dR-5" vertex="1">
+          <mxGeometry x="5" y="101" width="10" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="9xy_wbrql6GiWvLtt1Gk-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="scaiTMdIUXevmGGSi0dR-5" vertex="1">
+          <mxGeometry x="10" y="130" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9xy_wbrql6GiWvLtt1Gk-4" value="KONSEP SALAH" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="scaiTMdIUXevmGGSi0dR-5" target="9xy_wbrql6GiWvLtt1Gk-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="15" y="110" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="45" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="scaiTMdIUXevmGGSi0dR-7" value="TANDA TANGAN" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="462" y="196.5" width="100" height="659.5" as="geometry" />
+        </mxCell>
+        <mxCell id="9xy_wbrql6GiWvLtt1Gk-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="scaiTMdIUXevmGGSi0dR-7" vertex="1">
+          <mxGeometry x="45" y="202.5" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="scaiTMdIUXevmGGSi0dR-10" value="SURAT KELUAR" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="645" y="196.5" width="100" height="664.5" as="geometry" />
+        </mxCell>
+        <mxCell id="9xy_wbrql6GiWvLtt1Gk-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="scaiTMdIUXevmGGSi0dR-10" vertex="1">
+          <mxGeometry x="45" y="354.5" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="scaiTMdIUXevmGGSi0dR-12" value="ARSIP" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="832" y="195" width="100" height="665" as="geometry" />
+        </mxCell>
+        <mxCell id="9xy_wbrql6GiWvLtt1Gk-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="scaiTMdIUXevmGGSi0dR-12" vertex="1">
+          <mxGeometry x="45" y="460" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9xy_wbrql6GiWvLtt1Gk-5" value="KONSEP SURAT" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="9xy_wbrql6GiWvLtt1Gk-2" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="174" y="297" as="sourcePoint" />
+            <mxPoint x="327" y="297" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9xy_wbrql6GiWvLtt1Gk-6" value="REVISI ULANG" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="9xy_wbrql6GiWvLtt1Gk-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="326" y="345" as="sourcePoint" />
+            <mxPoint x="174" y="345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9xy_wbrql6GiWvLtt1Gk-8" value="KONSEP BENAR" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" parent="1" source="9xy_wbrql6GiWvLtt1Gk-2" target="9xy_wbrql6GiWvLtt1Gk-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="437" y="399" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9xy_wbrql6GiWvLtt1Gk-9" value="KONSEP SURAT KELUAR SELASAI" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;entryX=0.9;entryY=0.094;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="9xy_wbrql6GiWvLtt1Gk-7" target="HyfRW-xiImnDv4YA0rFH-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="176" y="475" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9xy_wbrql6GiWvLtt1Gk-10" value="REKAM DATA SURAT KELUAR" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="174" y="552" as="sourcePoint" />
+            <mxPoint x="691" y="552" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9xy_wbrql6GiWvLtt1Gk-13" value="FISIK SURAT KELUAR DIARSIPKAN" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="9xy_wbrql6GiWvLtt1Gk-14" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="174" y="656" as="sourcePoint" />
+            <mxPoint x="875" y="656" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9xy_wbrql6GiWvLtt1Gk-15" value="KIRIM SURAT" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="158" y="744" as="sourcePoint" />
+            <mxPoint x="21" y="744" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="PLY79GYtdMCrWhEQjImB" name="Page-3">
+    <mxGraphModel dx="1966" dy="696" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="u-66tjdJH67LitrgjHxv-1" value="pengirim surat" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="62" y="158" width="20" height="366" as="geometry" />
+        </mxCell>
+        <mxCell id="u-66tjdJH67LitrgjHxv-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="u-66tjdJH67LitrgjHxv-1">
+          <mxGeometry x="9" y="108" width="10" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="u-66tjdJH67LitrgjHxv-2" value="sekretariat" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="207" y="158" width="20" height="368" as="geometry" />
+        </mxCell>
+        <mxCell id="u-66tjdJH67LitrgjHxv-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="u-66tjdJH67LitrgjHxv-2">
+          <mxGeometry x="9" y="142" width="10" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="u-66tjdJH67LitrgjHxv-7" value="SIMAS" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="158" width="50" height="368" as="geometry" />
+        </mxCell>
+        <mxCell id="u-66tjdJH67LitrgjHxv-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="u-66tjdJH67LitrgjHxv-7">
+          <mxGeometry x="25" y="163" width="10" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="u-66tjdJH67LitrgjHxv-20" value="input surat masuk" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="u-66tjdJH67LitrgjHxv-7" target="u-66tjdJH67LitrgjHxv-8">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="35" y="187" as="sourcePoint" />
+            <mxPoint x="173.5" y="187" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QEmXQekTOrLwSQAyhEM1-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="u-66tjdJH67LitrgjHxv-7">
+          <mxGeometry x="25" y="254" width="10" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="u-66tjdJH67LitrgjHxv-8" value="control" style="shape=umlLifeline;participant=umlControl;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="492" y="158" width="40" height="364" as="geometry" />
+        </mxCell>
+        <mxCell id="u-66tjdJH67LitrgjHxv-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="u-66tjdJH67LitrgjHxv-8">
+          <mxGeometry x="19" y="186" width="10" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="u-66tjdJH67LitrgjHxv-9" value="database" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="654" y="158" width="40" height="368" as="geometry" />
+        </mxCell>
+        <mxCell id="QEmXQekTOrLwSQAyhEM1-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="u-66tjdJH67LitrgjHxv-9">
+          <mxGeometry x="20" y="221" width="10" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="u-66tjdJH67LitrgjHxv-11" value="mengirim surat" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1" target="u-66tjdJH67LitrgjHxv-2">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="82" y="300" as="sourcePoint" />
+            <mxPoint x="162" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u-66tjdJH67LitrgjHxv-18" value="buka aplikasi" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.8;exitY=0.142;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="227" y="322.01" as="sourcePoint" />
+            <mxPoint x="364" y="322" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QEmXQekTOrLwSQAyhEM1-2" value="insert data surat masuk" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1" target="u-66tjdJH67LitrgjHxv-9">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="522" y="378" as="sourcePoint" />
+            <mxPoint x="602" y="378" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QEmXQekTOrLwSQAyhEM1-5" value="view data surat masuk" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="676" y="412" as="sourcePoint" />
+            <mxPoint x="376" y="412" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QEmXQekTOrLwSQAyhEM1-7" value="kearsipan" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-73" y="158" width="20" height="365" as="geometry" />
+        </mxCell>
+        <mxCell id="QEmXQekTOrLwSQAyhEM1-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="QEmXQekTOrLwSQAyhEM1-7">
+          <mxGeometry x="9" y="287" width="10" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="QEmXQekTOrLwSQAyhEM1-14" value="pengarsipan surat masuk" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="215" y="445" as="sourcePoint" />
+            <mxPoint x="-55" y="445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T09:47:48.095Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="DQAIv-IRLHEYWN2LYuVa" version="20.1.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-07-21T05:37:16.628Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="UG6BinIHBbKKSDbCfi-r" version="20.1.3" type="github" pages="5">
   <diagram id="4XVUiRChP693ibhbtJb5" name="SURAT MASUK">
     <mxGraphModel dx="1966" dy="696" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -272,14 +272,87 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7cK6Vi_otLwlT_Yrm4QL-2" value="KELOLA SURAT MASUK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7cK6Vi_otLwlT_Yrm4QL-2" value="KELOLA SURAT MASUK" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="178" y="55" width="493" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7cK6Vi_otLwlT_Yrm4QL-3" value="SEKRETARIAT" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;size=45;" vertex="1" parent="1">
+        <mxCell id="7cK6Vi_otLwlT_Yrm4QL-3" value="SEKRETARIAT" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;size=45;" parent="1" vertex="1">
           <mxGeometry x="59" y="216" width="20" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="7cK6Vi_otLwlT_Yrm4QL-4" value="HALAMAN SURAT MASUK" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="7cK6Vi_otLwlT_Yrm4QL-4" value="HALAMAN SURAT MASUK" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="205" y="216" width="50" height="300" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="0WqPW3S68k_UHNUrQAz2" name="login">
+    <mxGraphModel dx="1566" dy="696" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WgWSNJCOBR6LFQu8xVkM-1" value="Sekretariat" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="43" y="101" width="20" height="344" as="geometry" />
+        </mxCell>
+        <mxCell id="WgWSNJCOBR6LFQu8xVkM-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="WgWSNJCOBR6LFQu8xVkM-1">
+          <mxGeometry x="5" y="85" width="10" height="213" as="geometry" />
+        </mxCell>
+        <mxCell id="WgWSNJCOBR6LFQu8xVkM-4" value="tb_users" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="487" y="101" width="40" height="342" as="geometry" />
+        </mxCell>
+        <mxCell id="WgWSNJCOBR6LFQu8xVkM-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="WgWSNJCOBR6LFQu8xVkM-4">
+          <mxGeometry x="15" y="115" width="10" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="WgWSNJCOBR6LFQu8xVkM-5" value="Login" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="253" y="98" width="50" height="344" as="geometry" />
+        </mxCell>
+        <mxCell id="WgWSNJCOBR6LFQu8xVkM-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="WgWSNJCOBR6LFQu8xVkM-5">
+          <mxGeometry x="20" y="88" width="10" height="212" as="geometry" />
+        </mxCell>
+        <mxCell id="WgWSNJCOBR6LFQu8xVkM-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="WgWSNJCOBR6LFQu8xVkM-5">
+          <mxGeometry x="26" y="163" width="10" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="WgWSNJCOBR6LFQu8xVkM-23" value="validasi user" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="WgWSNJCOBR6LFQu8xVkM-22" parent="WgWSNJCOBR6LFQu8xVkM-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="31" y="143" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="61" y="143" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WgWSNJCOBR6LFQu8xVkM-24" value="get data" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="WgWSNJCOBR6LFQu8xVkM-5" target="WgWSNJCOBR6LFQu8xVkM-4">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="31" y="117" as="sourcePoint" />
+            <mxPoint x="241" y="117" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WgWSNJCOBR6LFQu8xVkM-10" value="input&amp;nbsp; email, password" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1" target="WgWSNJCOBR6LFQu8xVkM-5">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="59" y="186" as="sourcePoint" />
+            <mxPoint x="139" y="186" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WgWSNJCOBR6LFQu8xVkM-18" value="pesan email, password salah" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=0.375;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WgWSNJCOBR6LFQu8xVkM-22" target="WgWSNJCOBR6LFQu8xVkM-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="269" y="316" as="sourcePoint" />
+            <mxPoint x="57" y="318" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WgWSNJCOBR6LFQu8xVkM-25" value=": Dashboard" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="101" width="100" height="344" as="geometry" />
+        </mxCell>
+        <mxCell id="WgWSNJCOBR6LFQu8xVkM-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="WgWSNJCOBR6LFQu8xVkM-25">
+          <mxGeometry x="45" y="249" width="10" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="WgWSNJCOBR6LFQu8xVkM-27" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="294" as="sourcePoint" />
+            <mxPoint x="287" y="294" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WgWSNJCOBR6LFQu8xVkM-29" value="Menampilkan Halaman Dasboard" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="284" y="350" as="sourcePoint" />
+            <mxPoint x="731.5" y="350" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

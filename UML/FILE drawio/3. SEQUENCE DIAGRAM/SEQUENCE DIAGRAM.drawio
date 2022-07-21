@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-21T15:05:15.792Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="P41684OSNTfr8OF1q6PK" version="20.1.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-07-21T15:08:50.462Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="DGb4BxQQ2zcOt21_rinB" version="20.1.3" type="github" pages="7">
   <diagram id="4XVUiRChP693ibhbtJb5" name="SURAT MASUK">
     <mxGraphModel dx="1966" dy="696" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -505,6 +505,18 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="894" y="324" as="sourcePoint" />
             <mxPoint x="734.5" y="324" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CZCbXzOQa5Ix9jYSR05c-1" value=": Page Disposisi" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="53" width="100" height="355" as="geometry" />
+        </mxCell>
+        <mxCell id="CZCbXzOQa5Ix9jYSR05c-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="CZCbXzOQa5Ix9jYSR05c-1">
+          <mxGeometry x="45" y="208" width="10" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="CZCbXzOQa5Ix9jYSR05c-3" value="get data" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="235" y="262" as="sourcePoint" />
+            <mxPoint x="376" y="262" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

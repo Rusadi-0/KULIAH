@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-21T15:03:20.181Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="G0Y0c7JlZFO4HNs-PWdV" version="20.1.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-07-21T15:05:15.792Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="P41684OSNTfr8OF1q6PK" version="20.1.3" type="github" pages="7">
   <diagram id="4XVUiRChP693ibhbtJb5" name="SURAT MASUK">
     <mxGraphModel dx="1966" dy="696" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -554,6 +554,12 @@
         <mxCell id="HjsfJruPFYcQ87qClPXG-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Sq-j4CnxWgx9WEj6zc6Q-3">
           <mxGeometry x="15" y="406" width="10" height="85" as="geometry" />
         </mxCell>
+        <mxCell id="-a07433aClXj1WgFk8X_-2" value="get data" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="Sq-j4CnxWgx9WEj6zc6Q-3" target="-a07433aClXj1WgFk8X_-1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="23" y="465" as="sourcePoint" />
+            <mxPoint x="103" y="465" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Sq-j4CnxWgx9WEj6zc6Q-4" value=": Page Disposisi" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="272" y="23" width="100" height="607" as="geometry" />
         </mxCell>
@@ -612,6 +618,12 @@
             <mxPoint x="22" y="545" as="sourcePoint" />
             <mxPoint x="-136" y="543" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-a07433aClXj1WgFk8X_-1" value=": Page surat Masuk" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="448" y="23" width="100" height="608" as="geometry" />
+        </mxCell>
+        <mxCell id="-a07433aClXj1WgFk8X_-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-a07433aClXj1WgFk8X_-1">
+          <mxGeometry x="45" y="467" width="10" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

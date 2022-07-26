@@ -3,6 +3,9 @@
 #### CEK STATUS MAHASISWA DI PDDIKTI
 > https://pddikti.kemdikbud.go.id/data_mahasiswa/NzU1NTA0MUItMUU5MC00MjdDLTg1OTMtQUREQTlBMUI4QjEx
 
+#### TOOL DESAIN APP
+> https://balsamiq-wireframes.appspot.com/
+
 #### TEMA PRESENTASI
 > https://business.tutsplus.com/id/articles/15-best-google-slides-presentation-themes-premium-templates-to-download--cms-25593
 

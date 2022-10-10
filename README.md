@@ -14,3 +14,5 @@
 > 2. https://slidesgo.com/theme/multi-business-company-website#search-web+app&position-3&results-12
 > 
 > 3. https://slidesgo.com/theme/web-project-proposal#position-11&related-1&rs=detail-related
+
+https://www.dropbox.com/scl/fi/39gui6iunvczrj1lzzv8j/SURAT-PERNYATAAN.docx?dl=0&rlkey=jiu8uhxhgaplep197zkk2xk42

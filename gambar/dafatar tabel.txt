@@ -1,0 +1,16 @@
+Tabel 3.1 Tabel Matriks Penelitian	10
+Tabel 3.2 Simbol-simbol dalam usecase diagram	30
+Tabel 3.3 Simbol-simbol dalam Class Diaram	31
+Tabel 3.4 Simbol-simbol dalam Activity Diagram	32
+Tabel 3.5 Simbol-simbol dalam Sequence Diagram	33
+Tabel 3.6 Table Database Surat_Masuk	61
+Tabel 3.7 Table Database Surat_Keluar	62
+Tabel 3.8 Table Database User	62
+Table 3.9 Table Database Role	62
+Table 3.10 Table Database User_Akses_Menu	63
+Table 3.11 Table Database Lembar_Disposisi	63
+Table 3.12 Table Databes Menu	63
+Tabel 4.1 Tabel contoh informasi Surat Masuk	87
+Tabel 4.2 Tabal contoh informasi Surat Keluar	89
+Tabel 4.3 Tabel Hasil Pengujiaan	95
+

@@ -1,0 +1,65 @@
+Gambar 2.1 Pilar Kualitas Informasi	17
+Gambar 3.1 Flowchart Sistem yang sedang Berjalan	37
+Gambar 3.2 Diagram Use Case	40
+Gambar 3.3 Diagram Activity Login 	41
+Gambar 3.4 Diagram Activity Rekam Surat  Masuk	42
+Gambar 3.5 Diagram Activity Edit Surat Masuk	43
+Gambar 3.6 Diagram Activity Hapus Surat Masuk	44
+Gambar 3.7 Diagram Activity Rekam Surat Keluar	45
+Gambar 3.8 Diagram Activity Edit Surat Keluar	46
+Gambar 3.9 Diagram Activity Hapus Surat Keluar	47
+Gambar 3.10 Diagram Activity Disposisi Surat Masuk	48
+Gambar 3.11 Diagram ActivityTambah Akun User	49
+Gambar 3.12 Diagram Activity Edit Akun User	50
+Gambar 3.13 Diagram Activity Hapus Akun User	51
+Gambar 3.14 Diagram Activity Tambah Role Access	52
+Gambar 3.15 Diagram Activity Edit Role Access	53
+Gambar 3.16 Diagram Activity Hapus Role Access	54
+Gambar 3.17 Diagram Activity Ganti Role Access	55
+Gambar 3.18 Diagram Sequence Login	56
+Gambar 3.19 Diagram Sequence Create Data	57
+Gambar 3.20 Diagram Sequence Edit Data	58
+Gambar 3.21 Diagram Sequence Disposisi Surat	59
+Gambar 3.22 Diagram Class Sistem	60
+Gambar 3.23 Relasi Database	64
+Gambar 3.24 Desain Page Login	65
+Gambar 3.25 Desain Page Surat Masuk	66
+Gambar 3.26 Desain Page Detail Surat Masuk	67
+Gambar 3.27 Desain Page Dashboard Manajement Surat	68
+Gambar 3.28 Desain Page Surat Keluar	69
+Gambar 3.29 Desain Page Detail Surat Keluar	70
+Gambar 3.30 Desain Page Disposisi Surat	71
+Gambar 3.30 Desain Page Disposisi Memberi Komenter	72
+Gambar 3.30 Desain Page Disposisi Surat Tindak Lanjuti	73
+Gambar 3.30 Desain Lembar Disposisi	74
+Gambar 4.1 Halaman Form Login	78
+Gambar 4.2 Halaman Responsif Form Login	78
+Gambar 4.3 Halaman Dashboard Manajemen Surat	79
+Gambar 4.4 Halaman Responsif  Dashboard	79
+Gambar 4.5 Halaman Surat Masuk	80
+Gambar 4.6 Halaman Responsif Surat Masuk	80
+Gambar 4.7 Halaman Detail Surat Masuk	81
+Gambar 4.8 Halaman Detail Responsif Surat Masuk	81
+Gambar 4.9 Lembar Disposisi	82
+Gambar 4.10 Halaman Surat Keluar	83
+Gambar 4.11 Halaman Responsif Surat Keluar	83
+Gambar 4.12 Halaman Detail Surat Keluar	84
+Gambar 4.13 Halaman Responsif Detail Surat Keluar	84
+Gambar 4.14 Halaman Awal Disposisi Surat	85
+Gambar 4.15 Halaman Responsif Awal Disposisi Surat	85
+Gambar 4.16 Halaman Proses Disposisi Surat	86
+Gambar 4.17 Halaman Responsif Proses Disposisi Surat	86
+Gambar 4.18 Halaman Pilih Tindaklanjuti Disposisi	87
+Gambar 4.19 Halaman Responsif Pilih Tindaklanjuti Disposisi	87
+Gambar 4.20 Notifikasi Berhasil Input Surat Masuk	88
+Gambar 4.21 Halamaan Surat Masuk	88
+Gambar 4.22 Notifikasi Berhasil Input Surat Keluar	90
+Gambar 4.23 Halamaan Surat Keluar	90
+Gambar 4.24 Form pencarian Data Surat Masuk	91
+Gambar 4.25 Hasil Pencarian Data Surat Masuk 91
+Gambar 4.26 Form pencarian Data Surat Keluar 92
+Gambar 4.27 Hasil Pencarian Data Surat Keluar 92
+Gambar 4.28 Surat Masuk belum Disposisi oleh pimpinan	93
+Gambar 4.29 Surat Masuk Sudah Disposisi oleh pimpinan	93
+Gambar 4.30 Lembar Disposisi Siap Cetak	94
+Gambar 4.31 Hasil cetak Lembar Disposisi	94

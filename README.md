@@ -24,7 +24,8 @@ https://siakad.unism.ac.id/
 https://panduan.unism.ac.id/index.php/2021/03/19/update-tata-cara-konsultasi-krs-siakad/ 
 
 https://lppm.unism.ac.id/tugas-akhir/
- https://ta.lppmunism.ac.id/Auth/Register
+
+https://ta.lppmunism.ac.id/Auth/Register
 
 https://lppm.unism.ac.id/2022/10/05/diagram-alir-tugas-akhir-mahasiswa/
 

@@ -34,25 +34,25 @@ YRLQwba6I
 11203362220068
 
 #### DATA DIRI MAHASISWA UNISM
-
+> 
 > NIK DOSEN PA : 1166012009016
-
+> 
 > NIM : 11203362220068
-
+> 
 > NAMA : Hadi Rusadi
-
+> 
 > ANGKATAN : IV
-
+> 
 > NIS : 11203362220068
-
+> 
 > PASSWORD : YRLQwba6I
-
-> DOSEN PA : Ahmad Hidayat, S.Kom., M.Kes (08125197104)
-
-> PEMBIMBING 1 : Bayu Nugraha, M.MSI (085249492027)
-
-> PEMBIMBING 2 : Agus Byna, M.Kom (08970011000)
-
-> PENGUJI : Mambang, M.Kom (081254819545)
-
+> 
+> DOSEN PA : Ahmad Hidayat, S.Kom., M.Kes
+> 
+> PEMBIMBING 1 : Bayu Nugraha, M.MSi
+> 
+> PEMBIMBING 2 : Agus Byna, M.Kom
+> 
+> PENGUJI : Mambang, M.Kom
+> 
 > nim NU = 1811102106062

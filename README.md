@@ -48,11 +48,15 @@ YRLQwba6I
 > PASSWORD : YRLQwba6I
 > 
 > DOSEN PA : Ahmad Hidayat, S.Kom., M.Kes
+> NIK : 1166012009016
 > 
 > PEMBIMBING 1 : Bayu Nugraha, M.MSi
+> NIK : 1166012018112
 > 
 > PEMBIMBING 2 : Agus Byna, M.Kom
+> NIK : 1166042012231
 > 
 > PENGUJI : Mambang, M.Kom
+> NIK : 1166022009018
 > 
 > nim NU = 1811102106062
